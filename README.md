@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**mazdakxezri/mazdakxezri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# 💫 About Me:
+# 💫 About Me:
 My passion is solving real-world problems through technology, strengthened by my background in the medical field. Studying medicine has given me insight into practical challenges and taught me the importance of precision and reliability—skills I bring into my programming work. I enjoy the full development process, from building solid back-end systems to crafting intuitive interfaces, and I see every line of code as a chance to create value and keep learning.
 
 
@@ -24,10 +16,3 @@ My passion is solving real-world problems through technology, strengthened by my
 [![](https://visitcount.itsvg.in/api?id=mazdakxezri&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
